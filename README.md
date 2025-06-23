@@ -48,6 +48,8 @@ cd project-root
 cd render-backend
 npm init -y
 npm install express cors body-parser
+sudo apt update
+sudo apt install build-essential
 ```
 
 ### 3. ⚙️ Compile the C Programs
