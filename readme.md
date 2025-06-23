@@ -1,3 +1,22 @@
+project-root/
+├── docs/                  
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
+├── render-backend/        
+│   ├── avg                # compiled from avg.c
+│   ├── min                # compiled from min.c
+│   ├── max                # compiled from max.c
+│   ├── package.json
+│   ├── package-lock.json
+│   └── server.js
+├── all-c-programs/        
+│   ├── avg.c
+│   ├── min.c
+│   └── max.c
+└── readme.md
+
+
 # Number Operation Project
 
 This project allows to compute the average, maximum, or minimum of two numbers via a web interface.
@@ -7,7 +26,7 @@ This project allows to compute the average, maximum, or minimum of two numbers v
 - VSCode : editor for solidity etc.
 - LiveServer : for hosting web-server
 
-## Setup Instructions
+### Setup Instructions
 
 Compile the C programs:
 cd all-c-programs
@@ -33,5 +52,6 @@ http://localhost:id (e.g. http://localhost:3000)
 
 ## Deployment Guidelines:-
 
-Same as this: 
+Same as this: ["web-implement1" main branch](https://github.com/upadhyayabha95/web-implement1.git)
+
 
