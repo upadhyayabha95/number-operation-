@@ -30,19 +30,19 @@ project-root/
 │   ├── max.c
 │   └── min.c
 
-└── README.md                # You're reading it!
+└── README.md                
 ```
 
 ## ⚙️ Setup Instructions
 
-### 1. 📥 Clone or Download the Repo
+### 1. Clone or Download the Repo
 
 ```bash
 git clone https://your-repo-url.git
 cd project-root
 ```
 
-### 2. 📦 Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 cd render-backend
@@ -71,7 +71,7 @@ You should see:
 Server running on http://localhost:3000
 ```
 
-### 5. 🌐 Open the Web App
+### 5. 🌐 Open the Web
 
 Open browser and go to:
 
@@ -79,7 +79,7 @@ Open browser and go to:
 http://localhost:3000
 ```
 
-## 🧪 Test Your App
+## 🧪 Test 
 
 1. Enter two numbers in the form
 2. Select **Avg**, **Max**, or **Min**
@@ -114,6 +114,6 @@ This is a minimal full-stack integration of:
 - Node.js backend
 - Native C-based computation
 
-Use it as a base for projects requiring native performance and cross-language interop.
+## Deployment Guidelines:-
 
-Same as this: ["web-implement1" main branch](https://github.com/SMaityCodes/WebSiteWithBackEnd.git)
+Same as this: ["web-implement1" main branch](https://github.com/upadhyayabha95/web-implement1.git)
