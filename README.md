@@ -46,7 +46,8 @@ cd project-root
 
 ```bash
 cd render-backend
-npm install
+npm init -y
+npm install express cors body-parser
 ```
 
 ### 3. ⚙️ Compile the C Programs
@@ -62,8 +63,6 @@ gcc min.c -o ../render-backend/min
 
 ```bash
 cd render-backend
-npm init -y
-npm install express cors body-parser
 node server.js
 ```
 
