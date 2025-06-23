@@ -31,5 +31,7 @@ Access the website at:
 
 http://localhost:id (e.g. http://localhost:3000)
 
+## Deployment Guidelines:-
 
+Same as this: 
 
