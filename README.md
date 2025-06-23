@@ -3,7 +3,7 @@
 
 This project builds a simple frontend web calculator that:
 - Takes two input numbers
-- Lets you choose **Avg**, **Max**, or **Min** via radio buttons
+- Lets you choose **Avg**, **Max**, or **Min**
 - Sends data to a Node.js backend
 - Backend calls compiled **C programs** to compute the result
 - Returns the output to the frontend via fetch()
@@ -56,11 +56,6 @@ cd all-c-programs
 gcc avg.c -o ../render-backend/avg
 gcc max.c -o ../render-backend/max
 gcc min.c -o ../render-backend/min
-```
-
-> ✅ On Linux/macOS:
-```bash
-chmod +x ../render-backend/*
 ```
 
 ### 4. ▶️ Start the Server
@@ -120,3 +115,5 @@ This is a minimal full-stack integration of:
 - Native C-based computation
 
 Use it as a base for projects requiring native performance and cross-language interop.
+
+Same as this: ["web-implement1" main branch](https://github.com/SMaityCodes/WebSiteWithBackEnd.git)
