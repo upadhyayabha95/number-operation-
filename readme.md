@@ -9,23 +9,25 @@ This project allows to compute the average, maximum, or minimum of two numbers v
 
 ## Setup Instructions
 
-1. Compile the C programs:
+Compile the C programs:
 cd all-c-programs
+
 gcc avg.c -o ../render-backend/avg
 gcc max.c -o ../render-backend/max
 gcc min.c -o ../render-backend/min
 
-2. Run the server:
+Run the server:
 go to the "render-backend" folder and run the following commands:-
   cd ../render-backend
-   `npm init -y`
+
+    `npm init -y`
   
     `npm install express cors body-parser`
   
     `node server.js`
 
 
-3. Access the website at:
+Access the website at:
 
 http://localhost:id (e.g. http://localhost:3000)
 
