@@ -1,5 +1,5 @@
 
-# 🧮 Web-Based Calculator using Node.js + C Executables
+# Web-Based Calculator using Node.js + C Executables
 
 This project builds a simple frontend web calculator that:
 - Takes two input numbers
