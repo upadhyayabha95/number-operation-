@@ -62,6 +62,8 @@ gcc min.c -o ../render-backend/min
 
 ```bash
 cd render-backend
+npm init -y
+npm install express cors body-parser
 node server.js
 ```
 
