@@ -2,7 +2,7 @@
 # Web-Based Calculator using Node.js + C Executables
 
 This project builds a simple frontend web calculator that:
-- Takes two input numbers
+- Takes two input numbers.
 - Lets you choose **Avg**, **Max**, or **Min**
 - Sends data to a Node.js backend
 - Backend calls compiled **C programs** to compute the result
